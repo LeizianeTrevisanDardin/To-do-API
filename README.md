@@ -185,16 +185,5 @@ http://localhost/Demo/TodoAPI/
 
 <hr>
 
-<h2>👩‍💻 Author</h2>
-
-<p>
-<strong>Leiziane Trevisan Dardin</strong><br>
-Software Development Student<br>
-Bow Valley College – Calgary, Canada
-</p>
-
+<h2><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7c684339-47b4-406d-b2e5-eef5688885bf" /> Author</h2> <p> <strong>Leiziane Trevisan Dardin</strong><br> Software Development Student<br> Bow Valley College – Calgary, Canada </p> <hr> <p align="center"> Built with :heart: using PHP & MySQL </p>
 <hr>
-
-<p align="center">
-Built with ❤️ using PHP & MySQL
-</p>
